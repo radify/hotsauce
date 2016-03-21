@@ -12,3 +12,8 @@ npm run build
 
  - `node server`
  - [localhost:9089](http://localhost:9089)
+
+### Hot Reloading for LESS
+
+ - Install [LiveReload extension](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en)
+ - `gulp`
