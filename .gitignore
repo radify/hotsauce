@@ -1,0 +1,5 @@
+public/jspm_packages/*
+public/css/index.css
+node_modules/*
+public/depends.js*
+typings/*
